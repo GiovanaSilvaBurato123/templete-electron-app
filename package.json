@@ -1,0 +1,17 @@
+{
+  "name": "templete-electron-app",
+  "version": "1.0.0",
+  "description": "templete para criar aplicações desktopcom electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron",
+    "dev": "electronmon ."
+  },
+  "keywords": [],
+  "author": "giovana",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.2.0",
+    "electronmon": "^2.0.3"
+  }
+}
